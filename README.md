@@ -36,3 +36,5 @@ yarn add eslint-plugin-react-hooks -D
 yarn add react-router-dom //Ambiente Web
 
 yarn add history //Navegar entre paginas
+
+yarn add reactotron-react-js
