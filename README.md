@@ -1,5 +1,10 @@
 Criando projeto GoBarberWeb
 
+docker ps
+docker start database
+docker start mongobarber
+docker start redisbarber
+
 yarn create react-app modulo09
 apagar o arquivo README.md
 deletar do package.json:
@@ -40,3 +45,11 @@ yarn add history //Navegar entre paginas
 yarn add reactotron-react-js
 
 yarn add prop-types
+
+yarn add styled-components
+
+yarn add customize-cra react-app-rewired -D
+
+yarn add babel-plugin-root-import -D
+
+yarn add eslint-import-resolver-babel-plugin-root-import -D
